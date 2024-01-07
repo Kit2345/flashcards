@@ -21,6 +21,31 @@ header {
   padding: 20px 0;
 }
 
+.bg-mid-blue {
+  background-color: #232731;
+}
+
+.bg-light-blue {
+  background-color: #323949;
+  color: white;
+}
+
+.flex-column {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  /* align-content: space-around; */
+}
+
+.flex-row {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
 .footer {
   background-color: #17191f;
   color: white;
@@ -32,4 +57,16 @@ header {
 
 .footerpic {
   padding: 10px 5px;
+}
+
+.height-container {
+  height: 200px;
+}
+
+.margin-auto {
+  margin: auto;
+}
+
+.width-third {
+  width: 30%;
 }
