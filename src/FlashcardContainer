@@ -1,9 +1,0 @@
-function FlashcardContainer() {
-  return (
-    <>
-      <p>this works</p>
-    </>
-  );
-}
-
-export default FlashcardContainer;
