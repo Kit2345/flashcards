@@ -19,3 +19,16 @@ header {
   color: white;
   padding: 20px 0;
 }
+
+.footer {
+  place-items: center;
+  background-color: #17191f;
+  color: white;
+  padding-bottom: 3px;
+  display: flex;
+  justify-content: center;
+}
+
+.footerpic {
+  padding: 10px 5px;
+}
