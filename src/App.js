@@ -9,7 +9,6 @@ function App() {
     <>
       <Header />
       <FlashcardsContainer />
-      <Flashcard />
       <Footer />
     </>
   );
